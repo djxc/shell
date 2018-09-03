@@ -1,0 +1,1 @@
+11 */1 * * * export DISPLAY=:0.0 && /home/dj/Shell/time.sh
